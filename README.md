@@ -1,3 +1,7 @@
+# B1000N Web UI Demo:
+[![Part 1](https://img.youtube.com/vi/pFfOZwLhzeM/0.jpg)](https://youtu.be/pFfOZwLhzeM)
+[![Part 2](https://img.youtube.com/vi/K_KQ3GUvKiE/0.jpg)](https://youtu.be/K_KQ3GUvKiE)
+
 # Bamboo Application Repository
 The BambooApps repository is the common repository as the source base for all applications running on different Bamboo platforms. 
 
@@ -88,7 +92,3 @@ http://127.0.0.1:5001
 ```
 
 Copyright Bamboo Systems Group Ltd.
-
-# B1000N Web UI Demo:
-[![Part 1](https://img.youtube.com/vi/pFfOZwLhzeM/0.jpg)](https://youtu.be/pFfOZwLhzeM)
-[![Part 2](https://img.youtube.com/vi/K_KQ3GUvKiE/0.jpg)](https://youtu.be/K_KQ3GUvKiE)
